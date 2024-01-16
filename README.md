@@ -1,3 +1,3 @@
-# task_app
+# First Layout Task
 
-A new Flutter project.
+Уничтожил задачу за 2 дня для DJIGIT IT Куратор 😎
